@@ -16,7 +16,7 @@ This e-commerce platform serves a dual purpose by facilitating the management of
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 
@@ -24,7 +24,7 @@ This e-commerce platform serves a dual purpose by facilitating the management of
 
 ```plaintext
 your-repo-name/
-├── client/                   # React frontend
+├── client/                   # HTML, CSS, JavaScript
 │   ├── public/
 │   └── src/
 │       ├── components/
